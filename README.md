@@ -1,4 +1,4 @@
-Chat App
+Zuco Chat App :)
 
 This Chat App is a ReactJS project that I started as a final certification exam for a Algebra Front-End developer.
 
@@ -11,5 +11,6 @@ Scaledrone
 
 Install it locally using npm:
 
-$ nmp install
+$ npm install
+
 $ npm start
